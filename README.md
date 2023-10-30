@@ -74,6 +74,8 @@ We have the `ManageCA`, it is possible to **approve and issue** the failed certi
 
 During this step, the user used for this exploit gains the `Issue Certificate` permissions. This is possible **because we have the `ManageCA` permissions in the first place.**
 
+![](./ressources/roles_raven_after_script.png)
+
 ### Step 5 : Download the issued certificate
 
 ![](./ressources/step5.jpg)
