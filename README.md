@@ -3,7 +3,7 @@
 
 DirtyCertificate is a tool to automate the "chained" vulnerabilities ESC7 (Vulnerable Certificate Authority Access Control) and ESC 1 (Misconfigured Certificate Templates - ESC1).
 
-https://github.com/Vict0rin0x/ESC71/assets/66214351/b28ca684-038e-4da7-aa83-4bffdc545ad2
+https://github.com/Vict0rin0x/DirtyCertificate/assets/66214351/1ca3e8ae-5aea-4969-8c94-66cb0c884056
 
 ## Requirements and installation
 
