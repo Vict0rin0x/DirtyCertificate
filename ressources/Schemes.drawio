@@ -1,0 +1,216 @@
+<mxfile host="app.diagrams.net" modified="2023-10-27T15:20:41.388Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="a3W7xTUk4l12BVHbUGfA" version="22.0.8" type="device">
+  <diagram name="Page-1" id="yr_JlLM1sJ-KQIMUehzr">
+    <mxGraphModel dx="1674" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-4" target="dHiZaq1VADWpSXlrSZT6-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-14" value="Putting &quot;Manage CA&quot; permission " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dHiZaq1VADWpSXlrSZT6-11">
+          <mxGeometry x="-0.0341" y="2" relative="1" as="geometry">
+            <mxPoint x="-97" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/domain_controller.svg;" vertex="1" parent="1">
+          <mxGeometry x="660" y="480" width="84" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;imageBackground=default;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="48.1" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-8" value="&lt;div&gt;STEP 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-9" target="dHiZaq1VADWpSXlrSZT6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-13" value="&lt;div&gt;Put &quot;Manage CA&quot; permission on R.peterson &lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dHiZaq1VADWpSXlrSZT6-10">
+          <mxGeometry x="-0.1727" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-9" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="495" width="81" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-12" value="R.peterson" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="124.54999999999995" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-17" target="dHiZaq1VADWpSXlrSZT6-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="795" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-16" value="Putting &quot;Manage CA&quot; permission " style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dHiZaq1VADWpSXlrSZT6-15">
+          <mxGeometry x="-0.0341" y="2" relative="1" as="geometry">
+            <mxPoint x="-106" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-17" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/domain_controller.svg;" vertex="1" parent="1">
+          <mxGeometry x="660" y="940" width="84" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-18" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="126.45000000000005" y="730" width="48.1" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-19" value="&lt;div&gt;STEP 2&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-22" target="dHiZaq1VADWpSXlrSZT6-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-21" value="Enable&amp;nbsp; &quot;SubCA&quot; certificate template" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dHiZaq1VADWpSXlrSZT6-20">
+          <mxGeometry x="-0.1727" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-22" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="110" y="955" width="81" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-23" value="R.peterson" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="136.45000000000005" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-27" target="dHiZaq1VADWpSXlrSZT6-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="1275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-26" value="Refused because &quot;r.peterson&quot; is not a Administrator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dHiZaq1VADWpSXlrSZT6-25">
+          <mxGeometry x="-0.0341" y="2" relative="1" as="geometry">
+            <mxPoint x="-106" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-27" target="dHiZaq1VADWpSXlrSZT6-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-27" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/domain_controller.svg;" vertex="1" parent="1">
+          <mxGeometry x="670" y="1420" width="84" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-28" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="136.45000000000005" y="1210" width="48.1" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-29" value="&lt;div&gt;STEP 3&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-30" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;rounded=1;curved=1;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-32" target="dHiZaq1VADWpSXlrSZT6-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-31" value="Ask for &quot;SubCA&quot; certificate with SAN set as Administrator" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="dHiZaq1VADWpSXlrSZT6-30">
+          <mxGeometry x="-0.1727" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-32" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1435" width="81" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-33" value="&lt;div&gt;A request is made&lt;/div&gt;&lt;div&gt;with a specific ID (eg 14)&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/documents.svg;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1310" width="72.6" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-38" target="dHiZaq1VADWpSXlrSZT6-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-38" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/domain_controller.svg;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1860" width="84" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-39" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="146.45000000000005" y="1650" width="48.1" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-40" value="&lt;div&gt;STEP 4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-43" target="dHiZaq1VADWpSXlrSZT6-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-42" value="&lt;div&gt;Issue certificate&lt;/div&gt;&lt;div&gt;(approved because R.peterson have &quot;Manage CA&quot; perms)&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dHiZaq1VADWpSXlrSZT6-41">
+          <mxGeometry x="-0.1727" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-43" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1875" width="81" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-44" value="&lt;div&gt;A certificate is issued&lt;/div&gt;&lt;div&gt;for the request 14&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/documents.svg;" vertex="1" parent="1">
+          <mxGeometry x="747.4" y="1660" width="72.6" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-46" value="R.peterson" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130.49999999999994" y="1170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-47" value="R.peterson" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140.99999999999994" y="1620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-49" target="dHiZaq1VADWpSXlrSZT6-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-49" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/domain_controller.svg;" vertex="1" parent="1">
+          <mxGeometry x="684.55" y="2390" width="84" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-51" value="&lt;div&gt;STEP 5&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="124.55" y="2080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-54" target="dHiZaq1VADWpSXlrSZT6-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-53" value="Ask to download the issued certificate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dHiZaq1VADWpSXlrSZT6-52">
+          <mxGeometry x="-0.1727" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-54" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="134.55" y="2405" width="81" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-55" target="dHiZaq1VADWpSXlrSZT6-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-58" value="Download the issued certificate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dHiZaq1VADWpSXlrSZT6-57">
+          <mxGeometry x="0.0177" y="-3" relative="1" as="geometry">
+            <mxPoint x="83" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-55" value="issued certificate" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/documents.svg;" vertex="1" parent="1">
+          <mxGeometry x="751.9499999999999" y="2190" width="72.6" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-56" value="R.peterson" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145.54999999999995" y="2150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-50" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="151.00000000000006" y="2180" width="48.1" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-60" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/domain_controller.svg;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2890" width="84" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-61" value="&lt;div&gt;STEP 6&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dHiZaq1VADWpSXlrSZT6-64" target="dHiZaq1VADWpSXlrSZT6-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-63" value="&lt;div&gt;Use ESC1 with the downloaded certificate&lt;/div&gt;&lt;div&gt;to get Administrator hash&lt;/div&gt;&lt;div&gt;Then PTH and remote access !&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dHiZaq1VADWpSXlrSZT6-62">
+          <mxGeometry x="-0.1727" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-64" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/laptop_client.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="2905" width="81" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-67" value="&lt;div&gt;Downloaded&lt;/div&gt;&lt;div&gt;Certificate&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/documents.svg;" vertex="1" parent="1">
+          <mxGeometry x="47.39999999999998" y="2780" width="72.6" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-68" value="R.peterson" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150.99999999999994" y="2650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-69" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="156.45000000000005" y="2680" width="48.1" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dHiZaq1VADWpSXlrSZT6-71" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/not_secure.svg;fillColor=#FF8345;" vertex="1" parent="1">
+          <mxGeometry x="703.4" y="2830" width="44" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
