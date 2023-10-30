@@ -42,7 +42,7 @@ By default, when installing a ADCS, a template called "SubCA" is created. This o
 
 ![](./ressources/subca.png)
 
-**By default, the permissions of the user used for this exploit is `Manage CA`**. 
+**The permissions of the user used for this exploit must be `Manage CA`**. 
 
 ![](./ressources/roles_raven_default.png)
 
@@ -50,7 +50,7 @@ By default, when installing a ADCS, a template called "SubCA" is created. This o
 
 ![](./ressources/step3.jpg)
 
-**ESC1 is a vulnerability that consists in providing a SAN (Subject Alternative Name) that is used for authentication.** When a certificate issued by lets say "R.peterson", **but with a SAN with the value "administrator"**, it is possible to request a TGT **containing the NTLM hash of the administrator account.** 
+**ESC1 is a vulnerability that consists in providing a SAN (Subject Alternative Name) that is used for authentication.** When a certificate issued by lets say "R.peterson", **but with a SAN with the value "administrator"**, it is possible to request a TGT **in order to request the NTLM hash of the administrator account.** 
 
 ![](./ressources/issued_certificate_with_san.png)
 
