@@ -38,7 +38,7 @@ The user that is used in here needs to have "Manage CA" permissions. Otherwise, 
 
 ![](./ressources/step2.jpg)
 
-By default, when installing a ADCS, a template called "SubCA" is created. This one is vulnerable to ESC1, but only Administrators can enroll to it. All roles are enabled, **including the `Client Authentication` that we need.
+By default, when installing a ADCS, a template called "SubCA" is created. This one is vulnerable to ESC1, but only Administrators can enroll to it. All roles are enabled, **including the `Client Authentication` that we need.**
 
 ![](./ressources/subca.png)
 
