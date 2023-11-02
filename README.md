@@ -7,14 +7,23 @@ https://github.com/Vict0rin0x/DirtyCertificate/assets/66214351/1ca3e8ae-5aea-496
 
 ## Requirements and installation
 
-Install dependencies : 
+Install python dependencies : 
 
 ```
-pip install rich
+pip install -r requirements.txt
 pip install certipy-ad
-pip install argparse
+```
+
+Install system dependencies : 
+
+````text
 sudo apt install evil-winrm
 sudo apt install ntpsec-ntpdate
+````
+
+Clone the repository : 
+
+```
 git clone https://github.com/Vict0rin0x/DirtyCertificate.git
 ```
 
